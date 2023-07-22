@@ -1,0 +1,24 @@
+{
+  "FSharp.suggestGitignore": false,
+  "files.exclude": {
+    "**/*.class": true,
+    "**/.git": true,
+    "**/.gitkeep": true,
+    "**/bin": true,
+    "**/build": true,
+    ".eslintignore": true,
+    ".gitattributes": true,
+    ".gitignore": true,
+    ".gradle": true,
+    ".prettierignore": true,
+    ".prettierrc": true,
+    "gradle": true,
+    "gradlew": true,
+    "gradlew.bat": true,
+    "node_modules": true,
+    "package-lock.json": true,
+    "package.json": true,
+    "src/typescript/dist": true,
+    "tsconfig.json": true
+  },
+}
