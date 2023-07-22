@@ -5,11 +5,6 @@
  */
 
 // @lc code=start
-/**
- * Note: The returned array must be malloced, assume caller calls free().
- */
-int* buildArray(int* nums, int numsSize, int* returnSize){
-
-}
+int main(int argc, char const *argv[]) { return 0; }
+int *buildArray(int *nums, int numsSize, int *returnSize) {}
 // @lc code=end
-
