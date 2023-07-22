@@ -3,6 +3,18 @@ plugins {
 }
 
 rootProject.name = "learn-programming"
+new File("src/java/course").eachDir {
+  if (it.name != "bin") {
+    include("src:java:leetcode:${it.name}")
+    println it.name
+  }
+}
+new File("src/java/design-patterns").eachDir {
+  if (it.name != "bin") {
+    include("src:java:leetcode:${it.name}")
+    println it.name
+  }
+}
 new File("src/java/leetcode").eachDir {
   if (it.name != "bin") {
     include("src:java:leetcode:${it.name}")
