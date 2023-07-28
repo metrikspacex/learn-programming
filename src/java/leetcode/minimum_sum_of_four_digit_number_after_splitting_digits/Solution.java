@@ -12,7 +12,6 @@ class Solution {
     int answer = s.minimumSum(2932);
     System.out.println(answer);
   }
-
   public int minimumSum(int num) {
     ArrayList<Integer> digits = new ArrayList<Integer>();
 

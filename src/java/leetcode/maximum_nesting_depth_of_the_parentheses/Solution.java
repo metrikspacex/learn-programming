@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public int maxDepth(String s) {
-        
-    }
+  public static void main(String[] args) {}
+  public int maxDepth(String s) { return 0; }
 }
 // @lc code=end
-

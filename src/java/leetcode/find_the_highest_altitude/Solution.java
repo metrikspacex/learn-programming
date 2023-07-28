@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public int largestAltitude(int[] gain) {
-        
-    }
+  public static void main(String[] args) {}
+  public int largestAltitude(int[] gain) { return 0; }
 }
 // @lc code=end
-

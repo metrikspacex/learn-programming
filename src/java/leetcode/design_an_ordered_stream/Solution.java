@@ -3,23 +3,11 @@
  *
  * [1656] Design an Ordered Stream
  */
-
+import java.util.List;
 // @lc code=start
 class OrderedStream {
-
-    public OrderedStream(int n) {
-        
-    }
-    
-    public List<String> insert(int idKey, String value) {
-        
-    }
+  public OrderedStream(int n) {}
+  public static void main(String[] args) {}
+  public List<String> insert(int idKey, String value) { return null; }
 }
-
-/**
- * Your OrderedStream object will be instantiated and called as such:
- * OrderedStream obj = new OrderedStream(n);
- * List<String> param_1 = obj.insert(idKey,value);
- */
 // @lc code=end
-

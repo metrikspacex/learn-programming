@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public int[][] largestLocal(int[][] grid) {
-        
-    }
+  public static void main(String[] args) {}
+  public int[][] largestLocal(int[][] grid) { return grid; }
 }
 // @lc code=end
-

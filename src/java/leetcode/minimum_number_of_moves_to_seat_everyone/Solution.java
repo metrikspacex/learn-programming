@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public int minMovesToSeat(int[] seats, int[] students) {
-        
-    }
+  public static void main(String[] args) {}
+  public int minMovesToSeat(int[] seats, int[] students) { return 0; }
 }
 // @lc code=end
-

@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public int diagonalSum(int[][] mat) {
-        
-    }
+  public static void main(String[] args) {}
+  public int diagonalSum(int[][] mat) { return 0; }
 }
 // @lc code=end
-

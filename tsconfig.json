@@ -3,7 +3,7 @@
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "module": "commonjs",
-    "outDir": "src/typescript/dist",
+    "outDir": "src/typescript/out",
     "rootDir": "src/typescript/",
     "skipLibCheck": true,
     "sourceMap": true,

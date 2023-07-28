@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public String makeSmallestPalindrome(String s) {
-        
-    }
+  public static void main(String[] args) {}
+  public String makeSmallestPalindrome(String s) { return s; }
 }
 // @lc code=end
-

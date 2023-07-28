@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public int maximum69Number (int num) {
-        
-    }
+  public static void main(String[] args) {}
+  public int maximum69Number(int num) { return 0; }
 }
 // @lc code=end
-

@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public String restoreString(String s, int[] indices) {
-        
-    }
+  public static void main(String[] args) {}
+  public String restoreString(String s, int[] indices) { return s; }
 }
 // @lc code=end
-

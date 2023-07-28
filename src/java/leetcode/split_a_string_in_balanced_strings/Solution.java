@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public int balancedStringSplit(String s) {
-        
-    }
+  public static void main(String[] args) {}
+  public int balancedStringSplit(String s) { return 0; }
 }
 // @lc code=end
-

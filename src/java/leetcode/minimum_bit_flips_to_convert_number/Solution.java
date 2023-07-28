@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public int minBitFlips(int start, int goal) {
-        
-    }
+  public static void main(String[] args) {}
+  public int minBitFlips(int start, int goal) { return 0; }
 }
 // @lc code=end
-

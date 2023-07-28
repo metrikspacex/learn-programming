@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public int uniqueMorseRepresentations(String[] words) {
-        
-    }
+  public static void main(String[] args) {}
+  public int uniqueMorseRepresentations(String[] words) { return 0; }
 }
 // @lc code=end
-

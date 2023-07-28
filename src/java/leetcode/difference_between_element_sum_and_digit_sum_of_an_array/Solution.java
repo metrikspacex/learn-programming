@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public int differenceOfSum(int[] nums) {
-        
-    }
+  public static void main(String[] args) {}
+  public int differenceOfSum(int[] nums) { return 0; }
 }
 // @lc code=end
-

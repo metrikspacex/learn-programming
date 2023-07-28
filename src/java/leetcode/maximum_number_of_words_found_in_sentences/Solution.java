@@ -12,7 +12,6 @@ class Solution {
                       "this is great thanks very much"});
     System.out.println(answer);
   }
-
   public int mostWordsFound(String[] sentences) {
     int max = 0;
 

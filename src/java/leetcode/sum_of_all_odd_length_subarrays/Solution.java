@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public int sumOddLengthSubarrays(int[] arr) {
-        
-    }
+  public static void main(String[] args) {}
+  public int sumOddLengthSubarrays(int[] arr) { return 0; }
 }
 // @lc code=end
-

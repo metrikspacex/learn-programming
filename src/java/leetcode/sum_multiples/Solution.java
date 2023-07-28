@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public int sumOfMultiples(int n) {
-        
-    }
+  public static void main(String[] args) {}
+  public int sumOfMultiples(int n) { return n; }
 }
 // @lc code=end
-

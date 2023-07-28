@@ -3,11 +3,8 @@
  *
  * [1603] Design Parking System
  */
-
-// @lc code=start
-
 import java.util.Arrays;
-
+// @lc code=start
 class ParkingSystem {
   private int big = 0;
   private int medium = 0;

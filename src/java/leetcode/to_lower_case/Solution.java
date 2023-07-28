@@ -3,12 +3,9 @@
  *
  * [709] To Lower Case
  */
-
 // @lc code=start
 class Solution {
-    public String toLowerCase(String s) {
-        
-    }
+  public static void main(String[] args) {}
+  public String toLowerCase(String s) { return s; }
 }
 // @lc code=end
-

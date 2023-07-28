@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: learn-programming
+Version: 1.0.0
+Summary: algorithms
+Author: metrikspacex
+Author-email: metrikspacex@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: black (>=23.7.0,<24.0.0)
+Requires-Dist: flake8 (>=6.0.0,<7.0.0)
+Requires-Dist: mypy (>=1.4.1,<2.0.0)
+Description-Content-Type: text/markdown
+
+# Learn-programming
+## Learning programming in c, java, python, sql, typescript using hackerrank,
+## leetcode, udemy courses.
+

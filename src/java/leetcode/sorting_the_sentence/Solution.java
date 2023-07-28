@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public String sortSentence(String s) {
-        
-    }
+  public static void main(String[] args) {}
+  public String sortSentence(String s) { return s; }
 }
 // @lc code=end
-

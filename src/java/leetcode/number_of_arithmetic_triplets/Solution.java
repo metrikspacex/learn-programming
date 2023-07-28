@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public int arithmeticTriplets(int[] nums, int diff) {
-        
-    }
+  public static void main(String[] args) {}
+  public int arithmeticTriplets(int[] nums, int diff) { return 0; }
 }
 // @lc code=end
-

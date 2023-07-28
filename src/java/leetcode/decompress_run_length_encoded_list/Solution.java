@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public int[] decompressRLElist(int[] nums) {
-        
-    }
+  public static void main(String[] args) {}
+  public int[] decompressRLElist(int[] nums) { return nums; }
 }
 // @lc code=end
-

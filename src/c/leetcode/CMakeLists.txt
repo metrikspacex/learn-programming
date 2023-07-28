@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.0.0)
+
+FILE(GLOB children *)
+FOREACH(child ${children})
+  IF(IS_DIRECTORY ${child})
+    GET_FILENAME_COMPONENT(source_name ${child} NAME_WE)
+    SET(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/lib/leetcode/${source_name})
+    SET(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/lib/leetcode/${source_name})
+    SET(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/bin/leetcode/${source_name})
+    ADD_EXECUTABLE(leetcode_${source_name} "${child}/main.c")
+  ENDIF()
+ENDFOREACH()

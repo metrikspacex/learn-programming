@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public String truncateSentence(String s, int k) {
-        
-    }
+  public static void main(String[] args) {}
+  public String truncateSentence(String s, int k) { return s; }
 }
 // @lc code=end
-

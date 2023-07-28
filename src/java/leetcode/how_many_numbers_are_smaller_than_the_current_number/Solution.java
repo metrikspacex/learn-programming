@@ -11,7 +11,6 @@ class Solution {
     int[] answer = s.smallerNumbersThanCurrent(new int[] {8, 1, 2, 2, 3});
     System.out.println(Arrays.toString(answer));
   }
-
   public int[] smallerNumbersThanCurrent(int[] nums) {
     int[] answer = new int[nums.length];
 

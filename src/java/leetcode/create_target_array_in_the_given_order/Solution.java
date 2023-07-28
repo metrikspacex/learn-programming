@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public int[] createTargetArray(int[] nums, int[] index) {
-        
-    }
+  public static void main(String[] args) {}
+  public int[] createTargetArray(int[] nums, int[] index) { return nums; }
 }
 // @lc code=end
-

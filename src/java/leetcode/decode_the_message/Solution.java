@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public String decodeMessage(String key, String message) {
-        
-    }
+  public static void main(String[] args) {}
+  public String decodeMessage(String key, String message) { return message; }
 }
 // @lc code=end
-

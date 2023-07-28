@@ -6,9 +6,7 @@
 
 // @lc code=start
 class Solution {
-    public int numberOfSteps(int num) {
-        
-    }
+  public static void main(String[] args) {}
+  public int numberOfSteps(int num) { return 0; }
 }
 // @lc code=end
-
