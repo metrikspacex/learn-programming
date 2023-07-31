@@ -3,18 +3,14 @@
  *
  * [1832] Check if the Sentence Is Pangram
  */
-
-// @lc code=start
-
 import java.util.HashMap;
-
+// @lc code=start
 class Solution {
   public static void main(String[] args) {
     Solution s = new Solution();
     boolean answer = s.checkIfPangram("thequickbrownfoxjumpsoverthelazydog");
     System.out.println(answer);
   }
-
   public boolean checkIfPangram(String sentence) {
     HashMap<Character, Integer> map = new HashMap<Character, Integer>();
 

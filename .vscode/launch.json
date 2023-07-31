@@ -1,4 +1,33 @@
 {
-  "configurations": [ ],
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "missing_number"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "two_sum_ii_input_array_is_sorted"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "two_sum"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "maximum_subarray"
+    }
+  ],
   "version": "0.2.0"
 }

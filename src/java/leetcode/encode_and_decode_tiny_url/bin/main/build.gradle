@@ -1,0 +1,22 @@
+plugins {
+  id "application"
+}
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+}
+
+application {
+  mainClass.set("Codec")
+}
+
+sourceSets {
+  main {
+    java {
+       srcDirs "."
+    }
+  }
+}

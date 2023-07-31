@@ -3,7 +3,6 @@
  *
  * [1662] Check If Two String Arrays are Equivalent
  */
-
 // @lc code=start
 class Solution {
   public static void main(String[] args) {
@@ -12,7 +11,6 @@ class Solution {
                                             new String[] {"a", "bc"});
     System.out.println(answer);
   }
-
   public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
     String wordOne = "";
     String wordTwo = "";

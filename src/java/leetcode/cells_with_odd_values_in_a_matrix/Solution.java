@@ -7,6 +7,10 @@
 // @lc code=start
 class Solution {
   public static void main(String[] args) {}
-  public int oddCells(int m, int n, int[][] indices) { return 0; }
+
+  public int oddCells(int m, int n, int[][] indices) {
+    //
+    return 0;
+  }
 }
 // @lc code=end
