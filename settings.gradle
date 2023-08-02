@@ -3,6 +3,12 @@ plugins {
 }
 
 rootProject.name = "learn-programming"
+new File("src/java/algorithms_datastructures").eachDir {
+  if (it.name != "bin") {
+    include("src:java:algorithms_datastructures:${it.name}")
+    println it.name
+  }
+}
 new File("src/java/leetcode").eachDir {
   if (it.name != "bin") {
     include("src:java:leetcode:${it.name}")
@@ -12,12 +18,6 @@ new File("src/java/leetcode").eachDir {
 new File("src/java/hackerrank").eachDir {
   if (it.name != "bin") {
     include("src:java:hackerrank:${it.name}")
-    println it.name
-  }
-}
-new File("src/java/springboot").eachDir {
-  if (it.name != "bin") {
-    include("src:java:springboot:${it.name}")
     println it.name
   }
 }

@@ -6,7 +6,14 @@
 
 // @lc code=start
 class Solution {
-  public static void main(String[] args) {}
-  public String replaceDigits(String s) { return s; }
+  public static void main(String[] args) {
+    Solution s = new Solution();
+    String answer = s.replaceDigits("a1c1e1");
+    System.out.println(answer);
+  }
+  public String replaceDigits(String s) {
+    //
+    return s;
+  }
 }
 // @lc code=end
