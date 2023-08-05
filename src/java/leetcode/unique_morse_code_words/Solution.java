@@ -3,10 +3,11 @@
  *
  * [804] Unique Morse Code Words
  */
-
-// @lc code=start
-
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Set;
+// @lc code=start
 
 class Solution {
   public static void main(String[] args) {
@@ -48,15 +49,16 @@ class Solution {
           }
         };
 
+    Set<String> morseCode = new HashSet<String>();
     for (String word : words) {
       String decoded = "";
       for (Character c : word.toCharArray()) {
         decoded += representation.get(c);
       }
-      System.out.println(decoded);
+      morseCode.add(decoded);
     }
 
-    return 0;
+    return morseCode.size();
   }
 }
 // @lc code=end

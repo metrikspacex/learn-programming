@@ -10,13 +10,12 @@ from typing import List, Dict
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        previousMap: Dict[int, int] = {}
+        difference: Dict = {}
 
-        for i, n in enumerate(nums):
-            diff = target - n
-            if diff in previousMap:
-                return [previousMap[diff], i]
-            previousMap[n] = i
+        for num in nums:
+            if difference.get(target - num):
+                pass
+
         return []
 
 

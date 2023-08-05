@@ -1,528 +1,535 @@
 {
   "configurations": [
     {
-      "mainClass": "${file}",
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "unique_morse_code_words"
+    },
+    {
+      "type": "java",
       "name": "Current File",
       "request": "launch",
-      "type": "java"
+      "mainClass": "${file}"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution",
-      "projectName": "add_two_integers",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "add_two_integers"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(1)",
-      "projectName": "arithmetic_subarrays",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "arithmetic_subarrays"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(2)",
-      "projectName": "binary_search_tree_to_greater_sum_tree",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "binary_search_tree_to_greater_sum_tree"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(3)",
-      "projectName": "binary_tree_postorder_traversal",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "binary_tree_postorder_traversal"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(4)",
-      "projectName": "binary_tree_preorder_traversal",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "binary_tree_preorder_traversal"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(5)",
-      "projectName": "cells_with_odd_values_in_a_matrix",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "cells_with_odd_values_in_a_matrix"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(6)",
-      "projectName": "count_equal_and_divisible_pairs_in_an_array",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "count_equal_and_divisible_pairs_in_an_array"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(7)",
-      "projectName": "count_good_triplets",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "count_good_triplets"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(8)",
-      "projectName": "count_number_of_pairs_with_absolute_difference_k",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "count_number_of_pairs_with_absolute_difference_k"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(9)",
-      "projectName": "create_target_array_in_the_given_order",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "create_target_array_in_the_given_order"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(10)",
-      "projectName": "decrypt_string_from_alphabet_to_integer_mapping",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "decrypt_string_from_alphabet_to_integer_mapping"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(11)",
-      "projectName": "deepest_leaves_sum",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "deepest_leaves_sum"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(12)",
-      "projectName": "delete_greatest_value_in_each_row",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "delete_greatest_value_in_each_row"
     },
     {
-      "mainClass": "OrderedStream",
+      "type": "java",
       "name": "OrderedStream",
-      "projectName": "design_an_ordered_stream",
       "request": "launch",
-      "type": "java"
+      "mainClass": "OrderedStream",
+      "projectName": "design_an_ordered_stream"
     },
     {
-      "mainClass": "ParkingSystem",
+      "type": "java",
       "name": "ParkingSystem",
-      "projectName": "design_parking_system",
       "request": "launch",
-      "type": "java"
+      "mainClass": "ParkingSystem",
+      "projectName": "design_parking_system"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(13)",
-      "projectName": "determine_color_of_a_chessboard_square",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "determine_color_of_a_chessboard_square"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(14)",
-      "projectName": "determine_if_string_halves_are_alike",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "determine_if_string_halves_are_alike"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(15)",
-      "projectName": "di_string_match",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "di_string_match"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(16)",
-      "projectName": "evaluate_boolean_binary_tree",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "evaluate_boolean_binary_tree"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(17)",
-      "projectName": "find_first_palindromic_string_in_the_array",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "find_first_palindromic_string_in_the_array"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(18)",
-      "projectName": "find_the_difference_of_two_arrays",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "find_the_difference_of_two_arrays"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(19)",
-      "projectName": "find_the_highest_altitude",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "find_the_highest_altitude"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(20)",
-      "projectName": "find_the_pivot_integer",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "find_the_pivot_integer"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(21)",
-      "projectName": "group_anagrams",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "group_anagrams"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(22)",
-      "projectName": "house_robber",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "house_robber"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(23)",
-      "projectName": "increasing_order_search_tree",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "increasing_order_search_tree"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(24)",
-      "projectName": "is_subsequence",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "is_subsequence"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(25)",
-      "projectName": "largest_local_values_in_a_matrix",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "largest_local_values_in_a_matrix"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(26)",
-      "projectName": "length_of_last_word",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "length_of_last_word"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(27)",
-      "projectName": "lexicographically_smallest_palindrome",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "lexicographically_smallest_palindrome"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(28)",
-      "projectName": "longest_common_prefix",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "longest_common_prefix"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(29)",
-      "projectName": "max_increase_to_keep_city_skyline",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "max_increase_to_keep_city_skyline"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(30)",
-      "projectName": "maximum_69_number",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "maximum_69_number"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(31)",
-      "projectName": "maximum_nesting_depth_of_the_parentheses",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "maximum_nesting_depth_of_the_parentheses"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(32)",
-      "projectName": "maximum_product_of_two_elements_in_an_array",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "maximum_product_of_two_elements_in_an_array"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(33)",
-      "projectName": "maximum_subarray",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "maximum_subarray"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(34)",
-      "projectName": "maximum_sum_with_exactly_k_elements",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "maximum_sum_with_exactly_k_elements"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(35)",
-      "projectName": "merge_nodes_in_between_zeros",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "merge_nodes_in_between_zeros"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(36)",
-      "projectName": "merge_two_binary_trees",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "merge_two_binary_trees"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(37)",
-      "projectName": "minimum_bit_flips_to_convert_number",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "minimum_bit_flips_to_convert_number"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(38)",
-      "projectName": "minimum_number_of_moves_to_seat_everyone",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "minimum_number_of_moves_to_seat_everyone"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(39)",
-      "projectName": "minimum_operations_to_make_the_array_increasing",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "minimum_operations_to_make_the_array_increasing"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(40)",
-      "projectName": "minimum_time_visiting_all_points",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "minimum_time_visiting_all_points"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(41)",
-      "projectName": "neither_minimum_nor_maximum",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "neither_minimum_nor_maximum"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(42)",
-      "projectName": "number_of_arithmetic_triplets",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "number_of_arithmetic_triplets"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(43)",
-      "projectName": "number_of_common_factors",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "number_of_common_factors"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(44)",
-      "projectName": "number_of_rectangles_that_can_form_the_largest_square",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "number_of_rectangles_that_can_form_the_largest_square"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(45)",
-      "projectName": "number_of_steps_to_reduce_a_number_to_zero",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "number_of_steps_to_reduce_a_number_to_zero"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(46)",
-      "projectName": "number_of_strings_that_appear_as_substrings_in_word",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "number_of_strings_that_appear_as_substrings_in_word"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(47)",
-      "projectName": "partitioning_into_minimum_number_of_deci_binary_numbers",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "partitioning_into_minimum_number_of_deci_binary_numbers"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(48)",
-      "projectName": "product_of_array_except_self",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "product_of_array_except_self"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(49)",
-      "projectName": "queries_on_number_of_points_inside_a_circle",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "queries_on_number_of_points_inside_a_circle"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(50)",
-      "projectName": "remove_trailing_zeros_from_a_string",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "remove_trailing_zeros_from_a_string"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(51)",
-      "projectName": "replace_all_digits_with_characters",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "replace_all_digits_with_characters"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(52)",
-      "projectName": "replace_elements_with_greatest_element_on_right_side",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "replace_elements_with_greatest_element_on_right_side"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(53)",
-      "projectName": "reverse_prefix_of_word",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "reverse_prefix_of_word"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(54)",
-      "projectName": "reverse_words_in_a_string_iii",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "reverse_words_in_a_string_iii"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(55)",
-      "projectName": "search_in_a_binary_search_tree",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "search_in_a_binary_search_tree"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(56)",
-      "projectName": "self_dividing_numbers",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "self_dividing_numbers"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(57)",
-      "projectName": "separate_the_digits_in_an_array",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "separate_the_digits_in_an_array"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(58)",
-      "projectName": "sort_the_people",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "sort_the_people"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(59)",
-      "projectName": "sorting_the_sentence",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "sorting_the_sentence"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(60)",
-      "projectName": "split_a_string_in_balanced_strings",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "split_a_string_in_balanced_strings"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(61)",
-      "projectName": "strictly_palindromic_number",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "strictly_palindromic_number"
     },
     {
-      "mainClass": "SubrectangleQueries",
+      "type": "java",
       "name": "SubrectangleQueries",
-      "projectName": "subrectangle_queries",
       "request": "launch",
-      "type": "java"
+      "mainClass": "SubrectangleQueries",
+      "projectName": "subrectangle_queries"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(62)",
-      "projectName": "sum_of_all_odd_length_subarrays",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "sum_of_all_odd_length_subarrays"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(63)",
-      "projectName": "sum_of_all_subset_xor_totals",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "sum_of_all_subset_xor_totals"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(64)",
-      "projectName": "sum_of_nodes_with_even_valued_grandparent",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "sum_of_nodes_with_even_valued_grandparent"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(65)",
-      "projectName": "sum_of_squares_of_special_elements",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "sum_of_squares_of_special_elements"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(66)",
-      "projectName": "teemo_attacking",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "teemo_attacking"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(67)",
-      "projectName": "to_lower_case",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "to_lower_case"
     },
     {
-      "mainClass": "Solution",
+      "type": "java",
       "name": "Solution(68)",
-      "projectName": "truncate_sentence",
       "request": "launch",
-      "type": "java"
-    },
-    {
       "mainClass": "Solution",
-      "name": "Solution(69)",
-      "projectName": "two_sum",
-      "request": "launch",
-      "type": "java"
+      "projectName": "truncate_sentence"
     },
     {
-      "mainClass": "Main",
-      "name": "Main",
-      "projectName": "weekone",
+      "type": "java",
+      "name": "Solution(69)",
       "request": "launch",
-      "type": "java"
+      "mainClass": "Solution",
+      "projectName": "two_sum"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "weekone"
     }
   ],
   // Use IntelliSense to learn about possible attributes.
